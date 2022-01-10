@@ -1,8 +1,6 @@
 from re import L, match
 from threading import Thread, Timer, Event
 from flask import Flask
-import ast
-import sys
 import json
 import requests
 import discord
